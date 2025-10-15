@@ -1,0 +1,5 @@
+C:\Users\HP\Documents\SharpDevelop Projects\EntrepriseHaitien\EntrepriseHaitien\obj\Debug\EntrepriseHaitien.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\SharpDevelop Projects\EntrepriseHaitien\EntrepriseHaitien\bin\Debug\EntrepriseHaitien.dll
+C:\Users\HP\Documents\SharpDevelop Projects\EntrepriseHaitien\EntrepriseHaitien\bin\Debug\EntrepriseHaitien.pdb
+C:\Users\HP\Documents\SharpDevelop Projects\EntrepriseHaitien\EntrepriseHaitien\obj\Debug\EntrepriseHaitien.dll
+C:\Users\HP\Documents\SharpDevelop Projects\EntrepriseHaitien\EntrepriseHaitien\obj\Debug\EntrepriseHaitien.pdb
